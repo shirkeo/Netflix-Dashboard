@@ -10,4 +10,4 @@ Some cool insights I found:
 This project was a great way to sharpen my data visualization, analysis, and storytelling skills.
 
 **Please find the attched files to tableau dashboard**
-Link to Dashboard : https://public.tableau.com/views/NetflixDashboard_17423209202500/Netflix?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Link to Dashboard : [Tableau dashboard](https://public.tableau.com/views/NetflixDashboard_17423209202500/Netflix?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
